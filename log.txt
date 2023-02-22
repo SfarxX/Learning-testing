@@ -1,8 +1,0 @@
-<<<<<< HEAD
-Bugfix repair test
-=======
-New-api repair test
->>>>>>> new-api
-new commit adding
-adds from second dev
-"goodbye, karel"
