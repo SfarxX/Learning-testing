@@ -1,3 +1,4 @@
 Added a string from second dev
 "goodbye karel"
-
+Added one more string from second dev
+"I am waiting for your message"
