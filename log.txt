@@ -1,4 +1,9 @@
 Added a string from second dev
 "goodbye karel"
+<<<<<<< HEAD
 Added one more string from second dev
 "I am waiting for your message"
+=======
+Added a string from first dev
+"lol, hello brother"
+>>>>>>> 65d737b0355f5b427d205876e1961c1308583a2b
