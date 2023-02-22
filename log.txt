@@ -3,4 +3,5 @@ Bugfix repair test
 =======
 New-api repair test
 >>>>>>> new-api
-new commit adding
+new commit add string
+adds from first dev - "hello, karel"
